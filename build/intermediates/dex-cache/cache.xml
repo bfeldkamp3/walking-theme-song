@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/e070096c690b6ee18c3734c5eaf2e9326f50da94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6fb9c19b549c912951fd2ecdc7290263f2f4ee0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/3369d872fbf8db70793b2ac0cdb8371080266775/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2df69841cd9793d6bfa2f78b7b7f4ea06d2296a7">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05e909b1500478dd69ac8c468206e5a4bc9c3963/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/c19a2105d2b603135de3d529a385da6717c8aa42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_300af70185da033efc81e107c333b84b7d9ae3ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/6aa0ca9034ad3d3fe88f8cd87795ed6a73f35bed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a3ae2ca8e64cdda4ae59aef07e33226cb950f5c">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4200a5a48c226e07a17b96c1d0fae2a2d30f252/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/a00cc5427f38b21060021f8fc3dc3f34845c4fd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dee6a9ed0b5b210f94008e9806cec992f27c5e80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/42ed44ba958d0a4777a07511153e23b101250abe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3a0d55874ee03de768356d540983a20c95dd07a">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe131515483838a26ed7d0f9f291c100822ad0ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/2cb54b37e7af433db8883c3e336d085dc5484b70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6987a74958e42b559fd0eacef972173f59ba93bb">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e23dc0430476c846308630583168e349286720d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/c8af15bcb2da69b5bcc98fbb2d6f7d9df6814477/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="07b52724ade6a26fecb53090da1574913fc78639">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be39f6a8795b91a2144949559c38436bb13d8ef3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/3e702ba5460e1e3b91e9c8bb19cd1ccc1fec6cdd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76a514b555617b442e23765d7dc6034c36183f44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/a109e528838f18a5854b5fffb35e772cf9a89611/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c25844ffc58cb252bf62e29976488a5365d49386/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/021d8d76d4583c276717080e02ca8ab7e64975b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab3400663ba026a4f9791a84a69602e6f40dff6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/ffab69ec7cd1d76d5bbcbfbfe4d91a6cb8983e47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5e24e901834850335a8bb7d95cf51ea1468a32a">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a15d0ce474277155f540df97051d1d35e9b26d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/1fb6e6963717500277f7335dcce54653a84bea8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7782b0dc9210380fa27005ca09a087693203303/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/d3e408f509062e2d8f4855c5686cfe5999feee2d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7cf5def5a11365487219b912b2a7ba8ad26f9917">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5956eeb6e24a4b63f1a097727eaf5e2d0c1aa442/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/43df885c61daeec2c3828a4628d7370a9713e9b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57717bc4b81722a9c3e481fc6f150a950afd550c">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7d1b7cea4d9e818c58303375274c282c62dc87c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/f779a5e0c4cb456c9a88b4a95b45be87517c8fb4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="767b85989de73cb665e14510ff2657ef979241f9">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb4a08764bb1aca6630e5fdb17c189adc8d30c75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/54078b0e7a7fe1691bc1269232d0d0f3e9a7398f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="341fc0b4661ec63331b1d95d8ceaeb04f5fd25cd">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8300a1d5ec88103e2a659fd458ed9d8b84b88d7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/2503a82fd607ed84e01883fe9ebc010f3e2c26e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bc31c5020f587cec6dac3d95ffb910179c5d09e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/832adf120bda8f44b89ee1bd8ebf92e35f2a4d40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="539c74d461960397d4c3f72623c72eb766569075">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4efdfd933908e2137a5741fa8a5cd0968083f1dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/e3b13dedddafdfea41d2ba81fb5646f32611b3bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0c6b6b87687475583a7841926cfcadef96280483">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcd236894e429e9b6e5bb9f0b125c06d7045fc50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/5455786aa913184e6baac2192063f4ac738fdaa4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83f83593e58b678e8e6b8db6cf1fd8fe0e22dfe1">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d2453f62c44032b70ecf75ac64070bc578dc83a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/579e17cbb042d46f8d8afa83466e962e68342316/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41872d809cff2114169756aad6dcd593be2ecb59">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f99ecd3fd2efb543146a0306f623ea7ac0906e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/f6ed159dacce2ed10c29a251051fb880a2de9074/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d1e7ad8d5340b695e52cc5a14819f4264a4f4b8e">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16e32b89e363ec8f01066594ea4d09aafbb90ba0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/4c45f1ed57819484521336e2c02c1268a5bc9998/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da9a22d2bc1f1e560fe9d31eff26001a3b9f52c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/9398235108f3ea94b7efdd766bf82ff6e6e48479/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e6f120fbd2f07afc83a8a278b1eedfa1d54b6aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/8130b12d8d5d12c769180622e8643a40ef614604/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="03589bac12234193d4a7a9b106a6db1b367afe99">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5091710a6338125b83cbf9054dad2a23f645c62b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/35ebb7f3811403673f0f5b80771a630fd90233f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ff3baea295d5079a6b54538c8eab744ea72b4cc">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48488ea820b93c9cf5a586d200b7ca34a6f1355f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.1_61eaae145b383555bc98f1eaffe8c1c6c4e92a95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/0295a7252acd00fbee4e6e6a017c9ed878f75fd5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bd362e8a7451fb70f9d28498949c1be35e5a2e6e">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c484b87440309aae9bc6ca837226e1a19ac0deee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/10d671d0673e7b20346a04955ab298913026b7b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a93a72fe5e0ac12f4a8ff35c5a6ed651e142d10a">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_538f9539d3ca18a500faece35577c3d4489e8ee6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/64d0b514389df0393cd3c31eae6cbcb32be1ce8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6104c51e3f1336556bf22b69e2b45947b5596e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/7039a4a639ecec2f0ab934379c20af4862c81325/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28ed270c519ff2874343e0824808da2efda0df9c">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0e01c10300b5bad258a9994a281123cf56b5239/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/8cd7287a4c9fbd68fa3920028cecdb1aa37f454a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="103378d4e51581df4783e9e4a59a1775fe4f4104">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29211765a2566b100090d1159f47fb4072086275/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/f72606fd0abddf1e76fee3c9c61f073a86399c8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f08cf628c3908e5efe3ed31fb84cffb9eb4335c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/b174f4ceb4fb880c6fb119ee9cfa0fc77829c754/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f779085940b4f3c80ea711dc24a36649f16f4cd5">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db69cd1ca32e93bf424ef2a630da0a0f413278d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/2d3e59c1c37f052abdc108f650edcc0bf6456ca0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e10460ce33ccdec5da3aa71cd84aebd0579ec41c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/76af3060c2ed83ec83f90ef20bf3aea244ced23e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dbc43063f959c7d32c2d55790aefc1ff1a9c92c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/69bd2dd10949fc72494afa2f3e6f5e87a09775f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67a51ae54d61ca318e61c73cdd9b27ec56af03bc">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ae4e8ede490d82db55dafd8c7ad9aac1feb9aa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/3a5a63a2a7e09bc23db6e5e50c8e5769c9cdaecd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="816a71eb5b0340d26db3056aa33f58dad108315b">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09b03817d1ecac8242fc66fbeefa29814821d676/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/4f6fec11e8e6d8af0229960308338063b1c7d1e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6a5692945e9d4bc34baddb4f7cb79070038f739">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9d61c083ba5ddb68ca6509d041f40ef417f73b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/3f3ba0d435720882540af892d1e9001d92d04faf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="171b54791d6ecec42ffc943bf9ea1a363ff6ab4f">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9b7d1a0bcde15e2a2451dab9ba5a2d9f7e88e30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/f87fbbf41528f2839b2a74438221e710947063ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e82b33733f801187c5b502d56fe1e3014de84b71">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_689b3b3782da6f3cd943294ff4aa8b87d8e4fd46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/2d4522f7b0cc920d13d9cede4d13cc0d123a96cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3227957f15e5f672f35758c028cf3b94fb39b56d">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a15ae966b570551e36cc1326c5e5a67f525e0e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/ae3749f3d6d75638a5e71fdf94e4052cc61c100e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="00e57da8e7efba5e0aead2d3c76201d86918a0d1">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1cfdf1b32b8540dcefc7707a3e5a5fa02b3cc75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/b0ef05da721d5ab09281eafe4299d0a8762e217f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="31aafe75ac42184d700ec3f862bf735c33ba201a">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2b0da518b427a4bf11f331153885b4bf7ad0087/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_1a1c000b40b53e4f06b2c040fc3e3991e6e6209a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/6801f722a3bddafb8288dcd9168e3b08b19b2043/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="814b7c015442bfbedc29035e7afdfe383d893a03">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33744efc875521f56962e5465464f98bfbfa06f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/763702bfddca57f38a332dcda1aa7bca315e25fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fcf95804aa2b3ba1579d8569e8e63fa05cfd3b22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/fa3653ed2b52a75ef627ea5a5d042556c12a8fba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d1a80b23cc4097106a3f4914928e700ac3c5b2ed">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0d66db6bd32296ce3acce1b65fff24082aa7457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/a948b4d8b6cd8e8df355d8e194883ce605d193ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_662e47946ddc0049e684c7849c3ebebe6a0f7998/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/5ff5dbea850c46ed9578e171cc092ae9df3d9910/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56ae1b700bdd20fdf8c5347fadcc96228fc1bf16">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec19a2b6ed47b06f3b141085d6402b41ce187014/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/48a88116f069c75c45e2af2f1ce82b78a795b3ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8fe21a236f138856209cacf3ff910d8bbd4f4e1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/8096f6f8aed5a80be8b44c92561813ebde91eec6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3004f1f557cd7bee4c687645b055b72a65b78bfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/08101941cfab2b25e7691d959fe9e583591003ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9d151a92bb0af74ea6368e57ddf0e03c609155b4">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b6e751dd2ff3ab315866c9a5156f6b6f550ddea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/499b5b96a72d32fbd4e661dbd991f15afa98f591/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9c80e982366ff105ce567a3e536cb77ae4981ade">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca2533a280ae53d28b5a49202ced07648bfe98d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a65372b8cf66a984163422149947e659f81163b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/6374135ac38757dc84c25642c96b85faccca7214/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2a935bcf7d7c529f04dc89905d1ddf678d5e692">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e5243ab45eb80e4c4c781a5e57d1b76a43065282/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/95eb34902b36c4b0789706c7f98e19a0405b8e13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2a8ae88a3addcb045172d340c4d1e977cbd50c39">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b9ed4647289d2b76a359244b64b2c969c06674f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/4f20ef2669a65a9de9eb91ca8b94a4d493f4702e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="01a590e11a94cb7f5c8b1243d4a2783eab4d0a34">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c2cf90bdd834587b14039bfd7c70112e72938fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/4393b9857716450bd6d226a9187bb3b1d7255208/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="010af21d7b95f7c975dd3d2fb2aa936a241b385b">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc33bb6c81f619b7d7e90c8ae864a6405d1cff9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/d9a53951c8ae9400b5a60d491a7242712c916daa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76a7a625df0e9027b53dbed6e9ba9a6031a42e39">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d128184b7109d01626169b4eb659e290c365dcad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5490d1864b8f9eb8113648e3b6126e6c845b4b3a">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_50c19e8baf37ec9d6a8abd0960540afb1e7fe4a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/09a249b3d251dd957c5933d45362cedc15d4a085/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc10e35f477578b1766c883d4a8561c207684531">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab4b478af37d5b1978ed7422840e9df0b6dd4b60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/8895150dfcd524541debd18968aa765b1b0d2163/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c839ceb2113b00249e896c1c02ae15cdd8380345">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9bb03f367d6963a201b1826c25dd755bd000d43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/f643398796dba44344c1a27333a2173d20e90c6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60d03f9d9820ed87c3f39594eed01918d2b366e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/322d70eea6602db316a23bf8129e21b8d18732e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="694e2bf7a21fa46310a4a0309b9943060d573abe">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47607a6bf7917811fefe9bc817ebfbea19698d6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brandon/.android/build-cache/4a0988e77f9f1816f5d3d30f54ee3b465327f178/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df812c448ef60fa0032ced451751ff98392b70a1">
+        <dex dex="/home/brandon/AndroidStudioProjects/WalkingThemeSong/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bae7615690fdd2c74b0593605edf3efa32f0a190/classes.dex" />
+    </item>
+
+</items>
